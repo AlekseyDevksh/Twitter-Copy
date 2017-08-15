@@ -2,7 +2,23 @@
   padding-right: 15px;
 }
 
-#loginAlert{
+.mainPage{
+  padding: 20px;
+}
+
+.time{
+  color: lightgrey;
+}
+
+.tweet {
+  border-bottom: 1px solid grey;
+  padding: 10px 35px;
+  margin: 5px;
+}
+
+#loginAlert,
+#tweetSuccess,
+#tweetFail {
   display: none;
 }
 
